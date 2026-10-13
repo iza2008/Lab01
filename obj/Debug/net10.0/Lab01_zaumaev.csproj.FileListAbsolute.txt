@@ -1,0 +1,15 @@
+C:\Users\Student_14\Documents\Lab01_zaumaev\obj\Debug\net10.0\Lab01_zaumaev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student_14\Documents\Lab01_zaumaev\obj\Debug\net10.0\Lab01_zaumaev.AssemblyInfoInputs.cache
+C:\Users\Student_14\Documents\Lab01_zaumaev\obj\Debug\net10.0\Lab01_zaumaev.AssemblyInfo.cs
+C:\Users\Student_14\Documents\Lab01_zaumaev\obj\Debug\net10.0\Lab01_zaumaev.csproj.CoreCompileInputs.cache
+C:\Users\Student_14\Documents\Lab01_zaumaev\obj\Debug\net10.0\Lab01_zaumaev.sourcelink.json
+C:\Users\Student_14\Documents\Lab01_zaumaev\bin\Debug\net10.0\Lab01_zaumaev.exe
+C:\Users\Student_14\Documents\Lab01_zaumaev\bin\Debug\net10.0\Lab01_zaumaev.deps.json
+C:\Users\Student_14\Documents\Lab01_zaumaev\bin\Debug\net10.0\Lab01_zaumaev.runtimeconfig.json
+C:\Users\Student_14\Documents\Lab01_zaumaev\bin\Debug\net10.0\Lab01_zaumaev.dll
+C:\Users\Student_14\Documents\Lab01_zaumaev\bin\Debug\net10.0\Lab01_zaumaev.pdb
+C:\Users\Student_14\Documents\Lab01_zaumaev\obj\Debug\net10.0\Lab01_zaumaev.dll
+C:\Users\Student_14\Documents\Lab01_zaumaev\obj\Debug\net10.0\refint\Lab01_zaumaev.dll
+C:\Users\Student_14\Documents\Lab01_zaumaev\obj\Debug\net10.0\Lab01_zaumaev.pdb
+C:\Users\Student_14\Documents\Lab01_zaumaev\obj\Debug\net10.0\Lab01_zaumaev.genruntimeconfig.cache
+C:\Users\Student_14\Documents\Lab01_zaumaev\obj\Debug\net10.0\ref\Lab01_zaumaev.dll
